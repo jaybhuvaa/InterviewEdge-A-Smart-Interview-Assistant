@@ -7,10 +7,10 @@ This work has been accepted at the 2025 IEEE International Students' Conference 
 
 
 ## Features
-- Multi-Modal Input: Accepts responses via text or voice recordings
+- Multi-Model Input: Accepts responses via text or voice recordings
 - Real-Time Evaluation: Instantly evaluates responses based on language-specific criteria
 - Interview Summaries: Summarizes interview sessions into a downloadable PDF
-- Multi-Modal Input: Accepts both text and voice responses for convenience
+- Multi-Model Input: Accepts both text and voice responses for convenience
 - Multi-Language Support: Supports Java, C++, and C with tailored evaluation metrics
 - Evaluation Criteria:
   - Technical Accuracy
